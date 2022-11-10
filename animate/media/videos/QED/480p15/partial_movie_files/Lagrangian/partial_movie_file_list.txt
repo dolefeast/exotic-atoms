@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/santi/Documents/cuarto/exotic-atoms/animate/media/videos/QED/480p15/partial_movie_files/Lagrangian/3163782288_2960129079_223132457.mp4'
+file 'file:/home/santi/Documents/cuarto/exotic-atoms/animate/media/videos/QED/480p15/partial_movie_files/Lagrangian/2201830969_329969645_838934365.mp4'
+file 'file:/home/santi/Documents/cuarto/exotic-atoms/animate/media/videos/QED/480p15/partial_movie_files/Lagrangian/2201830969_3054752369_2908760347.mp4'
