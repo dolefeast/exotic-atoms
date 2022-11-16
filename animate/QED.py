@@ -10,5 +10,13 @@ class Lagrangian(Scene):
         self.wait()
         self.play(Write(text))
 
+class Onio(Scene):
+    def construct(self):
+        onio = Tex("Onio: Estado ligado entre una partícula y su antiparticula").move_to(UP)
+        ejemplos = ["Positronio", "Pionio", "Muonio Verdadero"]
 
-        #self.play(
+        #l1 = Line(CENTER, UP)
+        self.add(onio)
+
+        self.play(Write(onio))
+

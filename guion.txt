@@ -1,0 +1,47 @@
+		---ONIO---
+
+Los onios son partículas formadas por una partícula y su antipartícula. Estas partículas son de gran utilidad para el estudio de la precisión de la teoría cuántica de campos
+	
+		---POSITRONIO---
+
+l positronio es un sistema formado por un electrón y su antipartícula, el positrón. Tiene un comportamiento muy parecido al hidrógeno debido a que la única diferencia es el cambio del protón del núcleo por un positrón. Es por eso que las expresiones para la energía serán iguales, cambiando los parámetros que las forman. -mu = me/2 -> ecuación energía hidrógeno-.  %Me sobra un poco
+
+Finalmente pasado un tiempo (0.120ns ¹S0 y 140ns ³S1) se desintegra el Ps liberando 1422keV y 2 o 3 rayos gamma en función del estado de spin. Estas medidas difieren en un 0.014% de las predichas por la QED *muestra L_QED*, que confirma la precisión de la misma
+
+Richard Vallery and colleagues created orthopositronium by firing a low-energy positron beam into a special micron-thick nanoporous silica film. Orthopositronium is formed when positrons that have been slowed down by the film capture electrons.
+	
+		---PIONIO---
+
+El pionio consiste en un mesón pi+ y un pi-. Las medidas del tiempo de vida de estas partículas es crucial para el estudio de la precisión de la cromodinámica cuántica, el estudio de la interacción entre quarks mediada por los bosones. Conocemos hoy el corto semiperiodo de desintegración con una precisión estadística del 15%: 2.89e-15s.
+
+
+		---QUARKONIO---
+
+Formados por un cuark y su antipartícula, los cuarconios se refieren generalmente a charmonium(J/psi) o bottomonium(Y). De otros casos no se habla tanto ya que lo que en otros experimentos lo que se observa son resultados de las interacciones de quarks más ligeros, y en el caso de los quarks más pesados, la desintegración por interacción débil ocurre demasiado rápido.
+
+Con una masa de ~3100MeV/c², el mesón sin sabor J/psi consiste en el primer estado excitad de un quark charm y su antiquark charm.
+Este mesón, junto con el bottomonio nos permite estudiar el plasma de quarks y gluones del universo temprano en experimentos como el ALICE del CERN
+
+el estudio de estos casos se realiza a través de la cromodinámica cuántica no relativista. Esto significa que podemos expresar los resultados como un desarrollo en serie en términos de v/c
+
+	---ÁTOMOS HIPERNUCLEARES---
+
+Los átomos hipernucleares consisten en átomos, en cuyos núcleos se ha sustituido un nucleón por un hiperón. Esto es, una barión de extrañeza no nula conservada en las interacciones fuertes y electromagnéticas.
+
+Son una gran herramienta para investigar las fuerzas nucleares y las interacciones bariónicas genéricas con quarks up down y strange.
+
+En particular, el estudio de estos átomos plantea una sorpresa: la existencia de dos núcleos unidos a un lambda hyperon. Lambda es el hyperón más ligero.
+
+Se generan estos hipernúcleos (lambda) a través de la colisión de un núcleo con un K-: K- + (A)Z -> ^A _lambda Z + pi-. 
+
+Normalmente el lambda hiperón se desintegra rápidamente. Cuando está inmerso en un núcleo, la desintegración usual queda prohibida por el principio de Fermi y se desintegra por lo conocido como una "desintegración no masónica". Podemos estudiar de esta forma mucho más cómodamente las interacciones lambda N
+
+	---ÁTOMOS CUASIPARTICULARES---
+
+El excitón consiste en el estado ligado de dos cuasipartículas, un electrón y su agujero. Se consigue con la promoción de un electrón en la banda de valencia a la banda de conducción. Este electrón deja detrás de sí un agujero, que al tener carga opuesta atraerá al electrón formando una órbita. 
+
+La promoción la conseguimos excitando al electrón mediante un fotón.
+
+En función de la constante dieléctrica del medio en el que suceda este proceso se tendrán diferentes tipos de excitones. A mayor sea la constante dieléctrica, mayor será el radio de la órbita/deslocalización de la función de onda. Si la órbita comprende más de una celda, se conoce a nuestro sistema como excitón de Wannier-Mott. Para sustancias más aislantes, si la órbita cabe dentro de una celda se le llama excitón de Frenkel.
+
+Entre medias de estos dos estados se encuentra el excitón de transferencia de cargas que se ven usualmente en los metales de transición.
