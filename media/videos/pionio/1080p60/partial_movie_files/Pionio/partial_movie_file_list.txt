@@ -3,7 +3,6 @@ file 'file:/home/santi/Documents/cuarto/exotic-atoms/media/videos/pionio/1080p60
 file 'file:/home/santi/Documents/cuarto/exotic-atoms/media/videos/pionio/1080p60/partial_movie_files/Pionio/34786186_3143129110_931772077.mp4'
 file 'file:/home/santi/Documents/cuarto/exotic-atoms/media/videos/pionio/1080p60/partial_movie_files/Pionio/34786186_997719785_1996729504.mp4'
 file 'file:/home/santi/Documents/cuarto/exotic-atoms/media/videos/pionio/1080p60/partial_movie_files/Pionio/34786186_329969645_641036136.mp4'
-file 'file:/home/santi/Documents/cuarto/exotic-atoms/media/videos/pionio/1080p60/partial_movie_files/Pionio/34786186_2275424593_2093530549.mp4'
-file 'file:/home/santi/Documents/cuarto/exotic-atoms/media/videos/pionio/1080p60/partial_movie_files/Pionio/34786186_2651250839_1039422433.mp4'
+file 'file:/home/santi/Documents/cuarto/exotic-atoms/media/videos/pionio/1080p60/partial_movie_files/Pionio/34786186_3241644721_3833097368.mp4'
 file 'file:/home/santi/Documents/cuarto/exotic-atoms/media/videos/pionio/1080p60/partial_movie_files/Pionio/34786186_329969645_326092990.mp4'
 file 'file:/home/santi/Documents/cuarto/exotic-atoms/media/videos/pionio/1080p60/partial_movie_files/Pionio/34786186_3842609460_2562983216.mp4'
