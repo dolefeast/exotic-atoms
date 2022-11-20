@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/santi/Documents/cuarto/exotic-atoms/media/videos/hipernuclear/480p15/partial_movie_files/Hypernuclear/3163782288_1910405338_223132457.mp4'
+file 'file:/home/santi/Documents/cuarto/exotic-atoms/media/videos/hipernuclear/480p15/partial_movie_files/Hypernuclear/2201830969_3147970639_2974176011.mp4'
+file 'file:/home/santi/Documents/cuarto/exotic-atoms/media/videos/hipernuclear/480p15/partial_movie_files/Hypernuclear/2201830969_3315410056_2341900231.mp4'
+file 'file:/home/santi/Documents/cuarto/exotic-atoms/media/videos/hipernuclear/480p15/partial_movie_files/Hypernuclear/2201830969_2351051567_4009771250.mp4'
+file 'file:/home/santi/Documents/cuarto/exotic-atoms/media/videos/hipernuclear/480p15/partial_movie_files/Hypernuclear/2201830969_3277226035_232951624.mp4'
+file 'file:/home/santi/Documents/cuarto/exotic-atoms/media/videos/hipernuclear/480p15/partial_movie_files/Hypernuclear/2201830969_2900396070_2920616514.mp4'
+file 'file:/home/santi/Documents/cuarto/exotic-atoms/media/videos/hipernuclear/480p15/partial_movie_files/Hypernuclear/2201830969_2176374238_2341900231.mp4'
+file 'file:/home/santi/Documents/cuarto/exotic-atoms/media/videos/hipernuclear/480p15/partial_movie_files/Hypernuclear/2201830969_134700926_1465346774.mp4'
+file 'file:/home/santi/Documents/cuarto/exotic-atoms/media/videos/hipernuclear/480p15/partial_movie_files/Hypernuclear/2201830969_38718646_401037645.mp4'
